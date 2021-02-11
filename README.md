@@ -1,2 +1,10 @@
 # apache_beam-python
 A demo project on batch data-parallel processing using Apache Beam and Python
+
+## Team Members
+-----------------------------------------------------
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Rajeshwari-Rudra"><img src="https://avatars.githubusercontent.com/u/60014358?s=400&u=19b829f44dbee95ca692106697ff733c5f71ccee&v=4" width="100px;" alt=""/><br /><sub><b>Rajeshwari Rudravaram</b></sub></a><br /><a href="https://github.com/Rajeshwari-Rudra" title="Code">💻</a></td>
+  </tr>
+</table>
