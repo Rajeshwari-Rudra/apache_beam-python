@@ -36,3 +36,12 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 - Sudheera - Group by
 - Rohith - Descending order
 - Pooja - Word count
+- Sai Rohith - 
+- Rajeshwari Rudravaram - I'll be working on minimum count of a word in Dataset.
+
+## Prerequisites
+- Apache Beam
+- Python
+
+## Dataset
+* [Kaggle](kaggle.com)
