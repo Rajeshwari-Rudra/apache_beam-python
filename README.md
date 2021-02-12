@@ -34,3 +34,5 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 ## Roles and Responsibilities 
 - Raju - Ascending order
 - Sudheera - Group by
+- Rohith - Descending order
+- Pooja - Word count
