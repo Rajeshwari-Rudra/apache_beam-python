@@ -13,9 +13,14 @@ A demo project on batch data-parallel processing using Apache Beam and Python
     
   </tr>
 </table>
+
 ## Introduction
 
 Apache beam is a dataprocessing platform. Data process can either be for Analytic purpose or ETL. Also, it doesn't rely on anyone of the execution engine and data agnostic, programming agnostic.
+
+## Working Process
+
+![](https://raw.githubusercontent.com/Rajeshwari-Rudra/apache_beam-python/main/pipeline.png)
 
 ## Apache Beam 
 - Apache Beam provides a simple, powerful programming model for building both batch and streaming parallel data processing pipelines.
