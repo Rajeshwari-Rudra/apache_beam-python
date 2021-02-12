@@ -10,3 +10,10 @@ A demo project on batch data-parallel processing using Apache Beam and Python
     <td align="center"><a href="https://github.com/GUNDUPOOJA"><img src="https://avatars.githubusercontent.com/u/60015515?s=400&u=a691ffb3d3f0d5b6668835340aa29ca8599d7667&v=4" width="100px;" alt=""/><br /><sub><b>Pooja Gundu</b></sub></a><br /><a href="https://github.com/GUNDUPOOJA" title="Code">💻</a></td>
   </tr>
 </table>
+
+## Apache Beam 
+- Apache Beam provides a simple, powerful programming model for building both batch and streaming parallel data processing pipelines.
+- Batch pipeline : The type of pipeline used to process the data in batches.
+- Streaming data pipelines : These pipelines handles millions of events at scale in real time.
+- Apache Beam SDK(Software Development Kit) for python provides access to the Apache Beam capabilities using Python Programming Language.
+- Using Apache Beam SDK one can build a program that defines the pipeline.
