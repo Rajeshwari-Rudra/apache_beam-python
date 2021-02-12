@@ -10,6 +10,8 @@ A demo project on batch data-parallel processing using Apache Beam and Python
     <td align="center"><a href="https://github.com/GUNDUPOOJA"><img src="https://avatars.githubusercontent.com/u/60015515?s=400&u=a691ffb3d3f0d5b6668835340aa29ca8599d7667&v=4" width="100px;" alt=""/><br /><sub><b>Pooja Gundu</b></sub></a><br /><a href="https://github.com/GUNDUPOOJA" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nrajubn"><img src="https://avatars.githubusercontent.com/u/60019513?s=400&u=6601ccba9a28d0a3095067e657e7305603bd6dda&v=4" width="100px;" alt=""/><br /><sub><b>Raju Nooka</b></sub></a><br /><a href="https://github.com/nrajubn" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/SaiGorla"><img src="https://avatars.githubusercontent.com/u/41150392?s=460&u=a16092ba3d43983167f66442ef1f07425bfecfc3&v=4" width="100px; alt=""/><br /><sub><b>Sai Rohith Gorla</b></sub></a><br /><a href="https://github.com/SaiGorla" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Avisakula123"><img src="https://avatars.githubusercontent.com/u/60164504?s=460&u=9401e8b6d44679177550d9b4b5c574cb9100c975&v=4" width="100px; alt=""/><br /><sub><b>Rohith Reddy Avisakula</b></sub></a><br /><a href="https://github.com/Avisakula123" title="Code">💻</a></td>
+        
     
   </tr>
 </table>
