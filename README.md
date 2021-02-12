@@ -30,3 +30,7 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 - Streaming data pipelines : These pipelines handles millions of events at scale in real time.
 - Apache Beam SDK(Software Development Kit) for python provides access to the Apache Beam capabilities using Python Programming Language.
 - Using Apache Beam SDK one can build a program that defines the pipeline.
+
+## Roles and Responsibilities 
+- Raju - Ascending order
+- Sudheera - Group by
