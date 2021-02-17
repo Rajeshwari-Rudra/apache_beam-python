@@ -39,9 +39,31 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 - Sai Rohith - Maximum count
 - Rajeshwari Rudravaram - I'll be working on minimum count of a word in Dataset.
 
+
 ## Prerequisites
 - Apache Beam
 - Python
+- Google Colab 
+
+### Commands to check the versions on your machine
+```powershell
+python --version
+```
+```powershell
+pip --version
+```
+- Note:- Python must be greater than 3.6.0
+
+## Command to install Apache beam 
+```powershell
+python -m pip install apache-beam
+```
+## Command to install executive engines 
+```powershell
+pip install apache-beam[gcp,aws,test,docs]
+``` 
 
 ## Dataset
 * [Kaggle](https://www.kaggle.com/)
+* [Apache Beam Documentation](https://beam.apache.org/get-started/quickstart-py/)
+* [Google Colab](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
