@@ -87,7 +87,7 @@ Output
 <img src="https://avatars.githubusercontent.com/u/60014358?s=400&u=19b829f44dbee95ca692106697ff733c5f71ccee&v=4" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="110" height="120">
 # Rajeshwari Rudravaram [![](https://img.shields.io/badge/Github-Rajeshwari-Rudra)](https://github.com/Rajeshwari-Rudra)
-[Link to my commits](https://github.com/Rajeshwari-Rudra/apache_beam-python/commits?author=Rajeshwari-Rudra)
+
 
 ## Sub-topic : Minimal Word Count
 -------------------------------------------------------
