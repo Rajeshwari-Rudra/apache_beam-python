@@ -177,30 +177,30 @@ pip install apache-beam[gcp,aws,test,docs]
 ```
 !pip install --quiet -U apache-beam
 ```
-![]()
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images-pooja/apache-install%20command.PNG)
 
 - Also, install all the dependencies(executive engines)required using the command
 ```
 !pip install apache-beam[gcp,aws,test,docs]
 ```
-![]()
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images-pooja/beam-dependencies.PNG)
 
 - Program that performs the word count operation
-![]()
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images-pooja/wordcount-logic.PNG)
 
 - output of the program
-![]()
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images-pooja/outputimage.PNG)
 
 - The command that lists all the files
 ```
 ! ls
 ```
-![]()
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images-pooja/listitems.PNG)
 
 - First upload your .csv file to your google drive account. The email used should be same for both google drive and google Colab accounts.
 
 - Import the .csv file run the below commands otherwise you will get file not found error because it is not imported into google colab.
-![]()
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images-pooja/fileimport.PNG)
 ```
 # Code to read csv file into colaboratory:
 !pip install -U -q PyDrive
@@ -228,12 +228,11 @@ downloaded = drive.CreateFile({'id':'1b73yN7MjGytqSP5wimYAQmtByOvGGe8Y'}) # repl
 downloaded.GetContentFile('superbowl-ads.csv') 
 ```
 
-
 - Command to add the result to a output file
 ```
 !cat output.txt-00000-of-00001 # output file
 ```
-![]()
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images-pooja/outputimage.PNG)
 
 ## References 
 - [Google Colab](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
