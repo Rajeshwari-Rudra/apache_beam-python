@@ -34,12 +34,12 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 - Using Apache Beam SDK one can build a program that defines the pipeline.
 
 ## Roles and Responsibilities 
-- Raju - Ascending order
+- Raju Nooka - Ascending order
 - Sri Sudheera Chitipolu - Groupby Transformation
-- Rohith - Descending order
+- Rohith Reddy Avisakula- Descending order
 - Pooja Gundu - I will be working on word count of a word in a Dataset taken from Kaggle.
-- Sai Rohith - Maximum count
-- Rajeshwari Rudravaram - I'll be working on minimum count of a word in Dataset.
+- Sai Rohith Gorla - Maximum count
+- Rajeshwari Rudravaram - Minimal Word Count of a Dataset.
 
 <img src="https://avatars.githubusercontent.com/u/22390581?s=460&u=e2a3ccb663ae34048a4c2233bb9a530d2de29a9c&v=4" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="110" height="120">
@@ -91,6 +91,8 @@ Output
 
 ## Sub-topic : Minimal Word Count
 -------------------------------------------------------
+* Minimal word count is an implementation of word count for a given dataset.
+* I will be creating a simple data processing pipeline that reads a text file and counts the number of occurrences of every word in that dataset.
 * I have worked on "Minimal Word Count" for the file 'key_benifits.csv' of Shopify app store.
 * The dataset, I have choosen is Kaggle. Here is the link [Shopify app store](https://www.kaggle.com/usernam3/shopify-app-store)
 * I have choosen the Google colaboratory to run the code.
@@ -150,6 +152,7 @@ pip install apache-beam[gcp,aws,test,docs]
 
 * [Kaggle](https://www.kaggle.com/)
 * [Apache Beam Documentation](https://beam.apache.org/get-started/quickstart-py/)
+* [Official GitHub account of Apache Beam](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/examples/wordcount_minimal.py)
 * [Google Colab](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
