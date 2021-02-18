@@ -118,3 +118,15 @@ pip install apache-beam[gcp,aws,test,docs]
 * [Kaggle](https://www.kaggle.com/)
 * [Apache Beam Documentation](https://beam.apache.org/get-started/quickstart-py/)
 * [Google Colab](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
+
+# Pooja Gundu
+## Sub-topic : WordCount
+- I have worked on "Word Count" for the file 'superbowl-ads.csv' This file contains data about all advertisements shown during the Super Bowl(most watched US Program) across the years from 1967 to 2020.
+* The dataset, I have choosen is Kaggle. Here is the link [superbowl-ads.csv](https://www.kaggle.com/prondeau/superbowlads)
+* I have choosen the Google colaboratory to run the code.
+- [Pooja's Google Colab Notebook on wordcount Transformation](https://github.com/GUNDUPOOJA/apache_beam_python-wordcount/blob/main/superbowl_ads.ipynb)
+- Demonstration Video: 
+- My Personal Repo on apache beam python with README file - https://github.com/GUNDUPOOJA/apache_beam_python-wordcount
+
+
+
