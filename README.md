@@ -1,3 +1,5 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdAvw2XOHzl55u-rBk2XMdtGh14HiTzS1AA&usqp=CAU" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="40" height="60">
 # apache_beam-python
 A demo project on batch data-parallel processing using Apache Beam and Python
 
@@ -40,7 +42,7 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 - Rajeshwari Rudravaram - I'll be working on minimum count of a word in Dataset.
 
 # Sri Sudheera Chitipolu
-## Demonstartion on GroupBy Transformation
+## Demonstration on GroupBy Transformation
 - Apache Beam python GroupBy Transformation on [netflix_titles.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/netflix_titles.csv)
 - [Google Colab Notebook on GroupBy Transformation](https://github.com/sudheera96/abeam_python_Groupby/blob/main/netflixGroupBy.ipynb)
 - Demonstration Video: [Sri Sudheera's GroupBy Transformation on Apache Beam Python](https://use.vg/tUaEWU)
