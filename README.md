@@ -37,7 +37,7 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 - Raju - Ascending order
 - Sri Sudheera Chitipolu - Groupby Transformation
 - Rohith - Descending order
-- Pooja - Word count
+- Pooja Gundu - I will be working on word count of a word in a Dataset taken from Kaggle.
 - Sai Rohith - Maximum count
 - Rajeshwari Rudravaram - I'll be working on minimum count of a word in Dataset.
 
@@ -152,14 +152,95 @@ pip install apache-beam[gcp,aws,test,docs]
 * [Apache Beam Documentation](https://beam.apache.org/get-started/quickstart-py/)
 * [Google Colab](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
 
-# Pooja Gundu
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://avatars.githubusercontent.com/u/60015515?s=400&u=a691ffb3d3f0d5b6668835340aa29ca8599d7667&v=4" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="110" height="120">
+     
+# Pooja Gundu [![](https://img.shields.io/badge/Github-GUNDUPOOJA)](https://github.com/GUNDUPOOJA)
 ## Sub-topic : WordCount
 - I have worked on "Word Count" for the file 'superbowl-ads.csv' This file contains data about all advertisements shown during the Super Bowl(most watched US Program) across the years from 1967 to 2020.
 * The dataset, I have choosen is Kaggle. Here is the link [superbowl-ads.csv](https://www.kaggle.com/prondeau/superbowlads)
 * I have choosen the Google colaboratory to run the code.
 - [Pooja's Google Colab Notebook on wordcount Transformation](https://github.com/GUNDUPOOJA/apache_beam_python-wordcount/blob/main/superbowl_ads.ipynb)
-- Demonstration Video: 
+- Demonstration Video: []()
 - My Personal Repo on apache beam python with README file - https://github.com/GUNDUPOOJA/apache_beam_python-wordcount
+
+## Prerequisites
+- Apache beam
+- Google Colab 
+- Google drive account
+- Python
+
+## Process and the commands used 
+- Create a google colab account and open a new notebook, rename it as you required.
+- First, install the apache-beam using the below command
+```
+!pip install --quiet -U apache-beam
+```
+![]()
+
+- Also, install all the dependencies(executive engines)required using the command
+```
+!pip install apache-beam[gcp,aws,test,docs]
+```
+![]()
+
+- Program that performs the word count operation
+![]()
+
+- output of the program
+![]()
+
+- The command that lists all the files
+```
+! ls
+```
+![]()
+
+- First upload your .csv file to your google drive account. The email used should be same for both google drive and google Colab accounts.
+
+- Import the .csv file run the below commands otherwise you will get file not found error because it is not imported into google colab.
+![]()
+```
+# Code to read csv file into colaboratory:
+!pip install -U -q PyDrive
+from pydrive.auth import GoogleAuth
+from pydrive.drive import GoogleDrive
+from google.colab import auth
+from oauth2client.client import GoogleCredentials
+```
+```
+# Autheticate E-Mail ID
+auth.authenticate_user()
+gauth = GoogleAuth()
+gauth.credentials = GoogleCredentials.get_application_default()
+drive = GoogleDrive(gauth)
+```
+
+- To get the id of the file, right-click on the file in google drive account, select share link option, then copy the link.
+- Remove the part that contains https://
+- keep only the id part.
+
+```
+# Get File from Drive using file-ID
+# Get the file
+downloaded = drive.CreateFile({'id':'1b73yN7MjGytqSP5wimYAQmtByOvGGe8Y'}) # replace the id with id of file you want to access
+downloaded.GetContentFile('superbowl-ads.csv') 
+```
+
+
+- Command to add the result to a output file
+```
+!cat output.txt-00000-of-00001 # output file
+```
+![]()
+
+## References 
+- [Google Colab](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
+- [Kaggle](https://www.kaggle.com/)
+- [Apache-beam](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
+- [Youtube Video shows how to import files to google colab](https://www.youtube.com/watch?v=oqMImCeXi6o)
+
 
 
 
