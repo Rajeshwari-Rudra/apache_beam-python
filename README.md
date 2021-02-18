@@ -33,11 +33,17 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 
 ## Roles and Responsibilities 
 - Raju - Ascending order
-- Sudheera - Group by
+- Sri Sudheera Chitipolu - Groupby Transformation
 - Rohith - Descending order
 - Pooja - Word count
 - Sai Rohith - Maximum count
 - Rajeshwari Rudravaram - I'll be working on minimum count of a word in Dataset.
+
+# Sri Sudheera Chitipolu
+## Demonstartion on GroupBy Transformation
+Apache Beam python GroupBy Transformation on [netflix_titles.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/netflix_titles.csv)
+### Demonstration Video
+[Sri Sudheera GroupBy Transformation on Apache Beam Python](https://use.vg/tUaEWU)
 
 # Rajeshwari Rudravaram
 
