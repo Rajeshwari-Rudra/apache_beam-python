@@ -39,6 +39,14 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 - Sai Rohith - Maximum count
 - Rajeshwari Rudravaram - I'll be working on minimum count of a word in Dataset.
 
+# Rajeshwari Rudravaram
+-------------------------------------------------------
+### Sub-topic
+* I worked on "Minimal Word Count" for the file 'key_benifits.csv' of Shopify app store.
+* The dataset, I have choosen is Kaggle. Here is the link [Shopify app store](https://www.kaggle.com/usernam3/shopify-app-store)
+  
+### Minimal Word Count
+- I have imported the apache beam as an alias beam in Google colab notebook.
 
 ## Prerequisites
 - Apache Beam
