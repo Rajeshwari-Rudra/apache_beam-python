@@ -47,9 +47,25 @@ Apache Beam python GroupBy Transformation on [netflix_titles.csv](https://github
 - Python 
 - Google Colab
 - Kaggle for data set
+### Process and Commands
+- Open firefox or safari browser
+- Type Google Colab
+- Click on first link that is Google Colab
+- Sign in with google account
+- Click on notebook after appearing the window with recent
+
+`
+Note: Google Colab works similar to jupyter notebook
+`
+
+- After writing and execution of code,save file in local or Github
+- Give the command to install apache beam
+```powershell
+!pip install --quiet -U apache-beam
+```
 
 #### Demonstration Video
-[Sri Sudheera GroupBy Transformation on Apache Beam Python](https://use.vg/tUaEWU)
+[Sri Sudheera's GroupBy Transformation on Apache Beam Python](https://use.vg/tUaEWU)
 
 # Rajeshwari Rudravaram
 
