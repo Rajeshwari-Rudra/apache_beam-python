@@ -63,6 +63,10 @@ Note: Google Colab works similar to jupyter notebook
 ```powershell
 !pip install --quiet -U apache-beam
 ```
+Program
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/doc/Screenshot%20(284).png)
+Output
+![](https://raw.githubusercontent.com/Rajeshwari-Rudra/apache_beam-python/main/doc/Screenshot%20(285).png)
 
 #### Demonstration Video
 [Sri Sudheera's GroupBy Transformation on Apache Beam Python](https://use.vg/tUaEWU)
