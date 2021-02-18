@@ -1,7 +1,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdAvw2XOHzl55u-rBk2XMdtGh14HiTzS1AA&usqp=CAU" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="40" height="60">
 # apache_beam-python
-Apache beam Python demonstration on different transformations.
+A demo project on batch data-parallel processing using Apache Beam and Python
+
 ## Team Members
 -----------------------------------------------------
 <table>
@@ -16,6 +17,14 @@ Apache beam Python demonstration on different transformations.
     
   </tr>
 </table>
+
+## Introduction
+
+Apache beam is a dataprocessing platform. Data process can either be for Analytic purpose or ETL. Also, it doesn't rely on anyone of the execution engine and data agnostic, programming agnostic.
+
+## Working Process
+
+![](https://raw.githubusercontent.com/Rajeshwari-Rudra/apache_beam-python/main/pipeline.png)
 
 ## Apache Beam 
 - Apache Beam provides a simple, powerful programming model for building both batch and streaming parallel data processing pipelines.
@@ -84,8 +93,18 @@ Output
 * The dataset, I have choosen is Kaggle. Here is the link [Shopify app store](https://www.kaggle.com/usernam3/shopify-app-store)
 * I have choosen the Google colaboratory to run the code.
 
-## Steps followed by me
-- I have imported the apache beam as an alias beam in Google colab notebook.
+## Key Concepts for this Project:
+1. Reading data from text file
+2. Specifying 'inline' transforms
+3. Counting a PCollection
+4. Writing data to text file
+
+
+##  Demonstration on Minimal Word Count
+- Apache Beam python Minimal Word Count Transformation on [Key_benifits.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/key_benefits.csv)
+- [Rajeshwari Rudravaram's Google colab notebook on Minimal word count](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/minimal_word_count.ipynb)
+- [Output of the Minimal Word Count](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/output.txt)
+- Vedio link on Demonstration of my project
 
 
 ## Prerequisites
@@ -110,8 +129,23 @@ python -m pip install apache-beam
 ```powershell
 pip install apache-beam[gcp,aws,test,docs]
 ``` 
+## Guiedlines for Minimal Word Count
 
-## Dataset
+- Installation of Apache Beam on Colab notebook and upload the input file to notebook
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/doc/command0.png)
+
+- Importing required libraries and run the following commands
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/doc/command1.png)
+
+- To check the list of files on your notebook
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/doc/command3.png)
+
+- command to add the result to output file
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/doc/command4.png)
+
+
+## References
+
 * [Kaggle](https://www.kaggle.com/)
 * [Apache Beam Documentation](https://beam.apache.org/get-started/quickstart-py/)
 * [Google Colab](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
