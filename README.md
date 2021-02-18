@@ -45,6 +45,9 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
      alt="Size Limit logo by Anton Lovchikov" width="110" height="120">
      
 # Sri Sudheera Chitipolu [![](https://img.shields.io/badge/Github-Sudheera96-orange)](https://github.com/sudheera96)
+
+[![](https://img.shields.io/badge/Github-Sudheera96%20Commits-orange)](https://github.com/Rajeshwari-Rudra/apache_beam-python/commits?author=sudheera96) [![](https://img.shields.io/badge/Github-Sudheera96%20Issues-orange)](https://github.com/Rajeshwari-Rudra/apache_beam-python/issues?q=is%3Aissue+is%3Aclosed+author%3Asudheera96)
+
 ## Demonstration on GroupBy Transformation
 - Apache Beam python GroupBy Transformation on [netflix_titles.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/netflix_titles.csv)
 - [Sri Sudheera's Google Colab Notebook on GroupBy Transformation](https://github.com/sudheera96/abeam_python_Groupby/blob/main/netflixGroupBy.ipynb)
