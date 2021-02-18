@@ -106,7 +106,7 @@ Output
 - Apache Beam python Minimal Word Count Transformation on [Key_benifits.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/key_benefits.csv)
 - [Rajeshwari Rudravaram's Google colab notebook on Minimal word count](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/minimal_word_count.ipynb)
 - [Output of the Minimal Word Count](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/output.txt)
-- Vedio link on Demonstration of my project
+- Video link on Demonstration of my project
 
 
 ## Prerequisites
