@@ -42,7 +42,13 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 # Sri Sudheera Chitipolu
 ## Demonstartion on GroupBy Transformation
 Apache Beam python GroupBy Transformation on [netflix_titles.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/netflix_titles.csv)
-### Demonstration Video
+### Prerequisites
+- Apache Beam
+- Python 
+- Google Colab
+- Kaggle for data set
+
+#### Demonstration Video
 [Sri Sudheera GroupBy Transformation on Apache Beam Python](https://use.vg/tUaEWU)
 
 # Rajeshwari Rudravaram
