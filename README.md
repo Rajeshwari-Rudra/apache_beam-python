@@ -41,7 +41,10 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 
 # Sri Sudheera Chitipolu
 ## Demonstartion on GroupBy Transformation
-Apache Beam python GroupBy Transformation on [netflix_titles.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/netflix_titles.csv)
+- Apache Beam python GroupBy Transformation on [netflix_titles.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/netflix_titles.csv)
+- [Google Colab Notebook on GroupBy Transformation](https://github.com/sudheera96/abeam_python_Groupby/blob/main/netflixGroupBy.ipynb)
+- Demonstration Video: [Sri Sudheera's GroupBy Transformation on Apache Beam Python](https://use.vg/tUaEWU)
+- My Personal Repo on apache beam python with README file - https://github.com/sudheera96/abeam_python_Groupby
 ### Prerequisites
 - Apache Beam
 - Python 
@@ -68,8 +71,11 @@ Program
 Output
 ![](https://raw.githubusercontent.com/Rajeshwari-Rudra/apache_beam-python/main/doc/Screenshot%20(285).png)
 
-#### Demonstration Video
-[Sri Sudheera's GroupBy Transformation on Apache Beam Python](https://use.vg/tUaEWU)
+#### References
+- [Apache Beam Group By](https://beam.apache.org/documentation/transforms/python/aggregation/groupby/)
+- [Kaggle data set](https://www.kaggle.com/shivamb/netflix-shows)
+- [Apache Beam Colab](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
+
 
 # Rajeshwari Rudravaram
 
