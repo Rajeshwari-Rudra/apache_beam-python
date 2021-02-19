@@ -342,7 +342,7 @@ downloaded.GetContentFile('superbowl-ads.csv')
 ## Sub-topic : GroupIntoBatches
 - I have worked on GroupIntoBatches for dataset [gas_retail.csv](https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021)
 - [My Google Colab Notebook on GroupIntoBatches](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/GroupIntoBatches.ipynb)
-- Demonstration Video:
+- [Demonstration Video link](https://app.vidgrid.com/view/3zL17htuXTRE)
 - [My personal repo link](https://github.com/Avisakula123/GroupIntoBatches)
 
 ## Prerequisites
@@ -359,8 +359,7 @@ pip install apache-beam
 ```
 !pip install apache-beam[gcp,aws,test,docs]
 ```
-- Program that performs the GroupIntoBatch operation.
-- Output of the program.
+
 - The command that lists all the files.
 ```
 ! ls
