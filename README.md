@@ -429,7 +429,7 @@ downloaded.GetContentF
 ## Sub Topic: BatchElements
 - I have worked on GroupIntoBatches for dataset [games.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/commit/b0f87e77c581a921b6276649ce68b3ceec0eeb26)
 - [My Google Colab Notebook on GroupIntoBatches](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/BatchElements.ipynb)
-- [Demonstration Video link]( )
+- [Demonstration Video link](https://app.vidgrid.com/view/IkYnKJI6qefg)
 - [My personal repo link](https://github.com/SaiGorla/BatchElements)
 
 ## Prerequisites
@@ -502,7 +502,7 @@ downloaded.GetContentFile('superbowl-ads.csv')
 ## References 
 - [Kaggle](https://www.kaggle.com/)
 - [Apache-beam](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
-- [link](https://medium.com/@selsaber/data-etl-using-apache-beam-part-one-48ca1b30b10a)
+- [link](https://colab.research.google.com/notebooks)
 
 
 
