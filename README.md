@@ -338,5 +338,60 @@ downloaded.GetContentFile('superbowl-ads.csv')
 - [Apache-beam](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
 - [link](https://medium.com/@selsaber/data-etl-using-apache-beam-part-one-48ca1b30b10a)
 
+# Rohith Avisakula [![](https://img.shields.io/badge/Github-Avisakula123)](https://github.com/Avisakula123)
+## Sub-topic : GroupIntoBatches
+- I have worked on GroupIntoBatches for dataset [gas_retail.csv](https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021)
+- [My Google Colab Notebook on GroupByKey Transformation]
+- Demonstration Video:
+- [My personal repo link](https://github.com/Avisakula123/GroupIntoBatches)
+
+## Prerequisites
+- Python
+- Apache beam
+- Google Colaboratory
+
+## Commands Used 
+- Install apache beam using the below command.
+```
+pip install apache-beam
+```
+- Next install the dependencies required using below command.
+```
+!pip install apache-beam[gcp,aws,test,docs]
+```
+- Program that performs the GroupIntoBatch operation.
+- Output of the program.
+- The command that lists all the files.
+```
+! ls
+```
+- First sign in to google drive account and google colab with same credentials and upload .csv file to google drive account.
+- Import .csv file into google colab.
+```
+# Code to read csv file into colaboratory:
+!pip install -U -q PyDrive
+from pydrive.auth import GoogleAuth
+from pydrive.drive import GoogleDrive
+from google.colab import auth
+from oauth2client.client import GoogleCredentials
+```
+```
+# Autheticate E-Mail ID
+auth.authenticate_user()
+gauth = GoogleAuth()
+gauth.credentials = GoogleCredentials.get_application_default()
+drive = GoogleDrive(gauth)
+```
+```
+# Get File from Drive using file-ID
+# Get the file
+downloaded = drive.CreateFile({'id':'1b73yN7MjGytqSP5wimYAQmtByOvGGe8Y'}) # replace the id with id of file you want to access
+downloaded.GetContentF
+```
+- Command for result
+```
+! cat results.txt-00000-of-00001
+```
+
 
 
