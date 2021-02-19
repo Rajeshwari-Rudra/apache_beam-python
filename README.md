@@ -427,7 +427,7 @@ downloaded.GetContentF
 # Sai Rohith Gorla[![](https://img.shields.io/badge/Github-SaiGorla)](https://github.com/SaiGorla)
 
 ## Sub Topic: BatchElements
-- I have worked on GroupIntoBatches for dataset [games.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/commit/b0f87e77c581a921b6276649ce68b3ceec0eeb26)
+- I have worked on BatchElements for dataset [games.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/commit/b0f87e77c581a921b6276649ce68b3ceec0eeb26)
 - [My Google Colab Notebook on GroupIntoBatches](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/BatchElements.ipynb)
 - [Demonstration Video link](https://app.vidgrid.com/view/IkYnKJI6qefg)
 - [My personal repo link](https://github.com/SaiGorla/BatchElements)
