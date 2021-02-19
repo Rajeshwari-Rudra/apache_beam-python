@@ -20,7 +20,8 @@ A demo project on batch data-parallel processing using Apache Beam and Python
 
 ## Introduction
 
-Apache beam is a dataprocessing platform. Data process can either be for Analytic purpose or ETL. Also, it doesn't rely on anyone of the execution engine and data agnostic, programming agnostic.
+- Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines, as well as a set of language-specific SDKs for constructing pipelines and Runners for executing them on distributed processing backends, including Apache Flink, Apache Spark, Google Cloud Dataflow and Hazelcast Jet.
+- Data process can either be for Analytic purpose or ETL(Extract, Transform and Load). Also, it doesn't rely on anyone of the execution engine and data agnostic, programming agnostic.
 
 ## Working Process
 
@@ -32,6 +33,16 @@ Apache beam is a dataprocessing platform. Data process can either be for Analyti
 - Streaming data pipelines : These pipelines handles millions of events at scale in real time.
 - Apache Beam SDK(Software Development Kit) for python provides access to the Apache Beam capabilities using Python Programming Language.
 - Using Apache Beam SDK one can build a program that defines the pipeline.
+
+## Beam programming model are:
+
+- PCollection: represents a collection of data, which could be bounded or unbounded in size.
+- PTransform: represents a computation that transforms input PCollections into output PCollections.
+- Pipeline: manages a directed acyclic graph of PTransforms and PCollections that is ready for execution.
+- PipelineRunner: specifies where and how the pipeline should execute.
+
+## google colaboratory
+- Colab is a Python development environment that runs in the browser using Google Cloud.
 
 ## Roles and Responsibilities 
 - Raju Nooka - Ascending order
