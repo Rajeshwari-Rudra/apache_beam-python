@@ -442,16 +442,14 @@ downloaded.GetContentF
 ```
 !pip install --quiet -U apache-beam
 ```
-![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/rohith-images/dependencies.PNG)
-
 - Install the other dependencies 
 ```
 !pip install apache-beam[gcp,aws,test,docs]
 ```
 ![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/rohith-images/dependencies.PNG)
 
-- Program that performs the GroupByKey operation
-![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images_Sairohith/code.PN)
+- Program that performs the BatchElements operation
+![](https://github.com/SaiGorla/BatchElements/blob/main/images_Sairohith/code.PNG)
 
 - output of the program
 ![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/images_Sairohith/output.PNG)
