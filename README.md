@@ -48,7 +48,7 @@ A demo project on batch data-parallel processing using Apache Beam and Python
 - Raju Nooka - Ascending order
 - Sri Sudheera Chitipolu - Groupby Transformation
 - Rohith Reddy Avisakula- Descending order
-- Pooja Gundu - I will be working on word count of a word in a Dataset taken from Kaggle.
+- Pooja Gundu - I will be working on word count of a dataset.
 - Sai Rohith Gorla - Maximum count
 - Rajeshwari Rudravaram - Minimal Word Count of a Dataset.
 
