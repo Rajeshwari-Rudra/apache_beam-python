@@ -41,7 +41,7 @@ A demo project on batch data-parallel processing using Apache Beam and Python
 - Pipeline: manages a directed acyclic graph of PTransforms and PCollections that is ready for execution.
 - PipelineRunner: specifies where and how the pipeline should execute.
 
-## google colaboratory
+## Google colaboratory
 - Colab is a Python development environment that runs in the browser using Google Cloud.
 
 ## Roles and Responsibilities 
@@ -119,7 +119,7 @@ Output
 - Apache Beam python Minimal Word Count Transformation on [Key_benifits.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/key_benefits.csv)
 - [Rajeshwari Rudravaram's Google colab notebook on Minimal word count](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/minimal_word_count.ipynb)
 - [Output of the Minimal Word Count](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/output.txt)
-- Video link on Demonstration of my project
+- [Video link on Demonstration of "Minimal Word Count"](https://use.vg/01XmBE)
 
 
 ## Prerequisites
