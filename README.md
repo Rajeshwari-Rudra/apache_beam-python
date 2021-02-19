@@ -47,7 +47,7 @@ A demo project on batch data-parallel processing using Apache Beam and Python
 ## Roles and Responsibilities 
 - Raju Nooka - GroupByKey Transformation
 - Sri Sudheera Chitipolu - Groupby Transformation
-- Rohith Reddy Avisakula- Descending order
+- Rohith Reddy Avisakula- GroupIntoBatches
 - Pooja Gundu - I will be working on word count of a dataset.
 - Sai Rohith Gorla - Maximum count
 - Rajeshwari Rudravaram - Minimal Word Count of a Dataset.
@@ -392,6 +392,44 @@ downloaded.GetContentF
 ```
 ! cat results.txt-00000-of-00001
 ```
+
+## Screenshots for commands
+
+- For installation of apache beam.
+
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/rohith-images/install.PNG)
+
+- For installing required dependencies and libraries.
+
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/rohith-images/dependencies.PNG)
+
+- Program for GroupIntoBatches.
+
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/rohith-images/code1.PNG)
+
+- For importing file into colobaratory.
+
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/rohith-images/code.PNG)
+
+- For display of list of files.
+
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/rohith-images/list.PNG)
+
+- For output of the file.
+
+![](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/rohith-images/output.PNG)
+
+## References
+
+* [kaggle](https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021)
+* [Apache](https://beam.apache.org/documentation/transforms/python/aggregation/groupintobatches)
+* [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+
+
+
+
+
+
 
 
 
