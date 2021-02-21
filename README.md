@@ -49,7 +49,7 @@ A demo project on batch data-parallel processing using Apache Beam and Python
 - Sri Sudheera Chitipolu - Groupby Transformation
 - Rohith Reddy Avisakula- GroupIntoBatches
 - Pooja Gundu - I will be working on word count of a dataset.
-- Sai Rohith Gorla - Maximum count
+- Sai Rohith Gorla - BatchMatches
 - Rajeshwari Rudravaram - Minimal Word Count of a Dataset.
 
 <img src="https://avatars.githubusercontent.com/u/22390581?s=460&u=e2a3ccb663ae34048a4c2233bb9a530d2de29a9c&v=4" align="right"
