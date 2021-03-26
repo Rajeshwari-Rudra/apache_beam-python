@@ -55,7 +55,7 @@ A demo project on batch data-parallel processing using Apache Beam and Python
 <img src="https://avatars.githubusercontent.com/u/22390581?s=460&u=e2a3ccb663ae34048a4c2233bb9a530d2de29a9c&v=4" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="110" height="120">
      
-# Sri Sudheera Chitipolu [![](https://img.shields.io/badge/Github-Sudheera96-orange)](https://github.com/sudheera96)
+# Sri Sudheera Chitipolu [![](https://img.shields.io/badge/Github-Sudheera96-orange)](https://github.com/sudheera96) [Demo link](https://use.vg/tUaEWU)
 
 [![](https://img.shields.io/badge/Github-Sudheera96%20Commits-orange)](https://github.com/Rajeshwari-Rudra/apache_beam-python/commits?author=sudheera96) [![](https://img.shields.io/badge/Github-Sudheera96%20Issues-orange)](https://github.com/Rajeshwari-Rudra/apache_beam-python/issues?q=is%3Aissue+is%3Aclosed+author%3Asudheera96)
 
@@ -171,7 +171,7 @@ pip install apache-beam[gcp,aws,test,docs]
 <img src="https://avatars.githubusercontent.com/u/60015515?s=400&u=a691ffb3d3f0d5b6668835340aa29ca8599d7667&v=4" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="110" height="120">
      
-# Pooja Gundu [![](https://img.shields.io/badge/Github-GUNDUPOOJA)](https://github.com/GUNDUPOOJA)
+# Pooja Gundu [![](https://img.shields.io/badge/Github-GUNDUPOOJA)](https://github.com/GUNDUPOOJA) [Demo link](https://app.vidgrid.com/view/zls12hZa9Krz)
 ## Sub-topic : WordCount
 - I have worked on "Word Count" for the file 'superbowl-ads.csv' This file contains data about all advertisements shown during the Super Bowl(most watched US Program) across the years from 1967 to 2020.
 * The dataset, I have choosen is Kaggle. Here is the link [superbowl-ads.csv](https://www.kaggle.com/prondeau/superbowlads)
@@ -258,7 +258,7 @@ downloaded.GetContentFile('superbowl-ads.csv')
 <img src="https://avatars.githubusercontent.com/u/60019513?s=400&u=6601ccba9a28d0a3095067e657e7305603bd6dda&v=4" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="110" height="120">
      
-# Raju Nooka [![](https://img.shields.io/badge/Github-nrajubn)](https://github.com/nrajubn)
+# Raju Nooka [![](https://img.shields.io/badge/Github-nrajubn)](https://github.com/nrajubn) [Demo link](https://app.vidgrid.com/view/v5jlfbORJrHX/?sr=UAzudZ)
 ## Sub-topic : GroupByKey
 - I have worked on "GroupByKey" for the file 'vgsales.csv' This dataset contains a list of video games with sales greater than 100,000 copies.
 * The dataset, I have choosen is Kaggle. Here is the link [vgsales.csv](https://www.kaggle.com/gregorut/videogamesales)
@@ -339,7 +339,7 @@ downloaded.GetContentFile('superbowl-ads.csv')
 - [Apache-beam](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
 - [link](https://medium.com/@selsaber/data-etl-using-apache-beam-part-one-48ca1b30b10a)
 
-# Rohith Avisakula [![](https://img.shields.io/badge/Github-Avisakula123)](https://github.com/Avisakula123)
+# Rohith Avisakula [![](https://img.shields.io/badge/Github-Avisakula123)](https://github.com/Avisakula123) [Demo link](https://app.vidgrid.com/view/3zL17htuXTRE)
 ## Sub-topic : GroupIntoBatches
 - I have worked on GroupIntoBatches for dataset [gas_retail.csv](https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021)
 - [My Google Colab Notebook on GroupIntoBatches](https://github.com/Rajeshwari-Rudra/apache_beam-python/blob/main/GroupIntoBatches.ipynb)
@@ -425,7 +425,7 @@ downloaded.GetContentF
 * [Apache](https://beam.apache.org/documentation/transforms/python/aggregation/groupintobatches)
 * [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
-# Sai Rohith Gorla[![](https://img.shields.io/badge/Github-SaiGorla)](https://github.com/SaiGorla)
+# Sai Rohith Gorla[![](https://img.shields.io/badge/Github-SaiGorla)](https://github.com/SaiGorla) [Demo link](https://app.vidgrid.com/view/IkYnKJI6qefg)
 
 ## Sub Topic: BatchElements
 - I have worked on BatchElements for dataset [games.csv](https://github.com/Rajeshwari-Rudra/apache_beam-python/commit/b0f87e77c581a921b6276649ce68b3ceec0eeb26)
